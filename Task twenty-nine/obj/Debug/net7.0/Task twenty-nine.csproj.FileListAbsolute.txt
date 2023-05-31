@@ -1,0 +1,15 @@
+G:\GB\PracticalTaskFour\Task twenty-nine\bin\Debug\net7.0\Task twenty-nine.exe
+G:\GB\PracticalTaskFour\Task twenty-nine\bin\Debug\net7.0\Task twenty-nine.deps.json
+G:\GB\PracticalTaskFour\Task twenty-nine\bin\Debug\net7.0\Task twenty-nine.runtimeconfig.json
+G:\GB\PracticalTaskFour\Task twenty-nine\bin\Debug\net7.0\Task twenty-nine.dll
+G:\GB\PracticalTaskFour\Task twenty-nine\bin\Debug\net7.0\Task twenty-nine.pdb
+G:\GB\PracticalTaskFour\Task twenty-nine\obj\Debug\net7.0\Task twenty-nine.csproj.AssemblyReference.cache
+G:\GB\PracticalTaskFour\Task twenty-nine\obj\Debug\net7.0\Task twenty-nine.GeneratedMSBuildEditorConfig.editorconfig
+G:\GB\PracticalTaskFour\Task twenty-nine\obj\Debug\net7.0\Task twenty-nine.AssemblyInfoInputs.cache
+G:\GB\PracticalTaskFour\Task twenty-nine\obj\Debug\net7.0\Task twenty-nine.AssemblyInfo.cs
+G:\GB\PracticalTaskFour\Task twenty-nine\obj\Debug\net7.0\Task twenty-nine.csproj.CoreCompileInputs.cache
+G:\GB\PracticalTaskFour\Task twenty-nine\obj\Debug\net7.0\Task twenty-nine.dll
+G:\GB\PracticalTaskFour\Task twenty-nine\obj\Debug\net7.0\refint\Task twenty-nine.dll
+G:\GB\PracticalTaskFour\Task twenty-nine\obj\Debug\net7.0\Task twenty-nine.pdb
+G:\GB\PracticalTaskFour\Task twenty-nine\obj\Debug\net7.0\Task twenty-nine.genruntimeconfig.cache
+G:\GB\PracticalTaskFour\Task twenty-nine\obj\Debug\net7.0\ref\Task twenty-nine.dll
